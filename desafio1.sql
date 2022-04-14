@@ -138,7 +138,7 @@ VALUES
     ('Celebration of more', '146', '7'),
     ('Rock his everything', '223', '7'),
     ('Home forever', '231', '7'),
-    ('Diamond power', '241', '7'),
+    ('Diamond Power', '241', '7'),
     ("Let's be silly", '132', '7'),
     ('Thang of thunder', '240', '10'),
     ('Words of her life', '185', '10'),
