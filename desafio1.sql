@@ -87,7 +87,7 @@ VALUES
   
 INSERT INTO SpotifyClone.users (user_name, age, plan_id, date_assign)
 VALUES
-	('Angelina', '42', '2', '2018-04-29'),
+	('Angelina', '42', '1', '2018-04-29'),
     ('Bill', '20', '4', '2019-06-05'),
     ('Carol', '19', '4', '2018-02-14'),
     ('Cintia', '35', '1', '2017-12-30'),
