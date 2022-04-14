@@ -8,3 +8,4 @@ INNER JOIN SpotifyClone.songs AS s
 ON s.song_id = h.song_id
 GROUP BY u.user_name
 ORDER BY u.user_name;
+
